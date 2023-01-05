@@ -1,0 +1,327 @@
+How many credit hours are required for bachelor's degree?
+Answer: oneWhen does academic year starts in FAST NUCES 
+Answer: august / september 
+How many credit hours are required for bachelor's degree? 
+Answer: one
+When does academic year starts in FAST NUCES 
+Answer: august / september
+How many credit hours are required for bachelor's degree? 
+Answer: one
+When does academic year starts in FAST NUCES? 
+Answer: august / september academic year
+How many credit hours are required for bachelor's degree? 
+Answer: 130
+What is number of semesters in academic year? 
+Answer: two
+What is normal duration of the semester? 
+Answer: what is normal duration of the semester ? [SEP]
+What is normal duration of the semester? 
+Answer: what is normal duration of the semester ? [SEP]
+What is meant by credit hour? 
+Answer: credit hour ? [SEP]
+What is the number of credit hour for theory course? 
+Answer: what is the number of credit hour
+What does 4 credit hour course means? 
+Answer: includes 3 credit hour for theory class and contains 1 credit hour lab
+How does classes are scheduled? 
+Answer: at scheduled hours
+How can a faculty members cancel a class? 
+Answer: at their own discretion
+What happens if number of lectures are not completed within given time? 
+Answer: what happens if number of lectures are not completed within given time ? [SEP]
+What is meant by credit hour? 
+Answer: credit hour ? [SEP]
+What is the number of credit hour for theory course? 
+Answer: what is the number of credit hour
+How does classes are scheduled? 
+Answer: at scheduled hours
+How can a faculty members cancel a class? 
+Answer: at their own discretion
+What is the number of credit hour for the Lab? 
+Answer: credit hour
+How many credit hour associated wtih the Lab? 
+Answer: 15 / 16 weeks
+What does I grade means on transcript? 
+Answer: temporary grade given for incomplete work
+Is admission in more than one program allowed? 
+Answer: any student with credits earned at other institution ( s ) , under formally accredited programs , aspiring for admission into a degree program at nuces , has to qualify the merit so determined by the admission test for that year for the respective degree program
+What is minimum grade required for credit transfer? 
+Answer: [SEP] . . academic year of the university starts in august / september . year . start . university august . academic year of the university ends in may / june . end . university june . there are two regular semesters , namely , fall and spring , in an academic year . . be regular semester academic . year . fall semester starts in august / september . semester . august . spring semester starts in jan / feb . feb . a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+What is minimum grade required for credit transfer? 
+Answer: [SEP] . . academic year of the university starts in august / september . year . start . university august . academic year of the university ends in may / june . end . university june . there are two regular semesters , namely , fall and spring , in an academic year . . be regular semester academic . year . fall semester starts in august / september . semester . august . spring semester starts in jan / feb . feb . a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+How can a student changes degree program? 
+Answer: by taking the admission test
+What are situations in which student can transfer from one campus to other? 
+Answer: what are situations in which student can transfer from one campus to other ? [SEP]
+Is admission in more than one program allowed? 
+Answer: any student with credits earned at other institution ( s ) , under formally accredited programs , aspiring for admission into a degree program at nuces , has to qualify the merit so determined by the admission test for that year for the respective degree program
+Is admission in more than one program allowed? 
+Answer: any student with credits earned at other institution ( s ) , under formally accredited programs , aspiring for admission into a degree program at nuces , has to qualify the merit so determined by the admission test for that year for the respective degree program
+In which cases transfer is not possible? 
+Answer: no credit can be given for a course in which the grade is below c
+In which cases transfer is not possible? 
+Answer: no credit can be given for a course in which the grade is below c
+How can he/she freeze a semester? 
+Answer: 
+How can we freeze a semester? 
+Answer: [CLS]
+What happpens if student gets F grade? 
+Answer: a student must repeat a course
+Is admission in more than one program allowed? 
+Answer: not allowed
+What are exceptions for new course in summer? 
+Answer: what are exceptions for new course in summer ? [SEP]
+Is financial aid available in summer semester? 
+Answer: Please contact academic for this.
+What is minimum strength red for a course to be offered? 
+Answer: Please contact academic for this.
+Can a student study summer in other campus? 
+Answer: Please contact academic for this.
+What is CGPA rement for medal fication? 
+Answer: [SEP]
+Which students are included in rector list? 
+Answer: students earning an sgpa of 4 . 00 with at least 30 credit hours shall be included in a prestigious list called rector ’ s list of honors . only those students are included in this list who have completed the semester with regular course load prescribed in the study plan . a 4 credit hours course includes 3 credit hour for theory class and contains 1 credit hour lab . include . all classes are held at scheduled hours , timely communicated to students through notification of time table by the concerned academic office . hours students notification table office . the academic office will be informed before the cancellation of class so that students are informed well in time . office students . normal semester course load for undergraduate students , who are not on academic warning / probation , is as per the university study plan which includes 5 courses and labs if there any . students probation plan courses . the normal course load is 5 courses , however , students can register for more courses provided they are not getting ahead of their batch . load students they . the performance of students is assessed during the semester through midterm exams , assignments , quizzes . students semester exams . answer books of the final exams is shared with students after marking , in a formally scheduled open ‘ paper viewing ' session , and any issue arising there off will be resolved . exams students session . minimum of ten ( 10 ) students should register in a course . students course . students earning an sgpa of 4 . 00 with at least 30 credit hours
+When does academic year starts in FAST NUCES 
+Answer: before the commencement of fall semester
+Can a student register for new course in summer? 
+Answer: Please contact academic for this query.
+What is minimum strength red for a course to be offered? 
+Answer: [CLS]
+What is minimum strength red for a course to be offered? 
+Answer: [CLS]
+Can a student drop course during summer semester? 
+Answer: cannot be dropped
+Can a student study summer in other campus? 
+Answer: a student can study summer semester in another campus , provided that the parent campus is not offering that course
+What is CGPA rement for medal fication? 
+Answer: cgpa drops below 2 . 00
+How a student gets entered in rector list? 
+Answer: only those students are included in this list who have completed the semester with regular course load prescribed in the study plan
+How a student gets entered in dean's list? 
+Answer: only those students are included in this list who have completed the semester with regular course load prescribed in the study plan
+How can a student changes degree program? 
+Answer: by taking the admission test
+What happens in case student gets third academic warning? 
+Answer: [SEP]
+What happens in case student gets third academic warning? 
+Answer: [SEP]
+What happens in case student gets third academic warning? 
+Answer: [SEP]
+What happens in case student gets third academic warning? 
+Answer: [SEP]
+What happens in case student gets third academic warning? 
+Answer: Please contact academic office for this query.
+How can a student changes degree program? 
+Answer: by taking the admission test
+In which cases transfer is not possible? 
+Answer: if the requirement of minimum lectures is not being met ( due to unavoidable circumstances
+What happens in case of closure of admission? 
+Answer: Please contact academic office for this query.
+What is the normal course load? 
+Answer: 5 courses
+Is admission in more than one program allowed? 
+Answer: admission in more than one degree programs at any institution
+When does academic year starts in FAST NUCES? 
+Answer: fall
+How can a student changes degree program? 
+Answer: by taking the admission test
+When does academic year starts in FAST NUCES 
+Answer: before the commencement of fall semester
+Is admission in more than one program allowed? 
+Answer: admission in more than one degree pro
+How many credit hours are required for bachelor's degree? 
+Answer: 130
+what is a semester 
+Answer: a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+what are core subjects 
+Answer: Please contact academic office for this query.
+what is a semester 
+Answer: a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+what is semester fee 
+Answer: pay semester fees by the due date
+when will admission open 
+Answer: before the commencement of fall semester
+where is fast located 
+Answer: Please contact academic office for this query.
+duration of 6th semester 
+Answer: Please contact academic office for this query.
+what are core subjects 
+Answer: Please contact academic office for this query.
+how many cr hour in bachelor degree 
+Answer: 130 credit hours
+what does credit hour mean 
+Answer: teaching a theory course for one classroom - teaching hour each week throughout the semester
+where is fast located 
+Answer: Please contact academic office for this query.
+where is fast located? 
+Answer: Please contact academic office for this query.
+When does academic year starts in FAST NUCES?  
+Answer: fall and spring , in an academic year . the minimum duration of a bachelor ’ s degree is four academic years ( 8 regular semesters ) . maximum duration is of seven years . years . new admissions in undergraduate programs are normally conducted once in an academic year , that is , before the commencement of fall semester
+when does fall semester starts? 
+Answer: august / september
+when does the semester start 
+Answer: august / september
+what is the fee structure 
+Answer: fees . c ) pay semester fees by the due date
+eligibilty criteria 
+Answer: Please contact academic office for this query.
+last date of admission 
+Answer: due date . c ) pay semester fees by the due date
+When does academic year starts in FAST NUCES? 
+Answer: fall and spring , in an academic year . the minimum duration of a bachelor ’ s degree is four academic years ( 8 regular semesters ) . maximum duration is of seven years . years . new admissions in undergraduate programs are normally conducted once in an academic year , that is , before the commencement of fall semester
+when does admission start 
+Answer: before the commencement of fall semester
+what is fee 
+Answer: fees . c ) pay semester fees by the due date
+shorts are allowed 
+Answer: Please contact academic office for this query.
+cloths 
+Answer: Please contact academic office for this query.
+when does admission start 
+Answer: before the commencement of fall semester
+what is duration of semester 
+Answer: maximum duration is of seven years
+when will semester end 
+Answer: spring semester starts in jan / feb
+what happen student get third warning in semester 
+Answer: 
+what is the duration of regular semester 
+Answer: the minimum duration of a bachelor ’ s degree is four academic years ( 8 regular semesters ) . duration . maximum duration is of seven years
+student can drop course during summer 
+Answer: a student can register for a maximum of two courses in summer semester
+when does admission start 
+Answer: before the commencement of fall semester
+what is normal course load 
+Answer: normal semester course load for undergraduate students , who are not on academic warning / probation , is as per the university study plan which includes 5 courses and labs if there any
+can a student study summer in other campus 
+Answer: a student can study summer semester in another campus , provided that the parent campus is not offering that course
+how many credit hours are required for bachelor degree 
+Answer: 130
+what is core courses 
+Answer: sgpa = ( p1 * c1 + p2 * c2 + p3 * c3 + p4 * c4 ) / c here p means score and c means credit hours
+core  
+Answer: 
+shorts are allowed 
+Answer: Please contact academic office for this query.
+how many credit hours are required for bachelor degree 
+Answer: 130
+Can a student drop course during summer semester?  
+Answer: a student can register for a maximum of two courses in summer semester
+can a student drop 
+Answer: cancellation of class
+how can student change degree program 
+Answer: has to qualify the merit so determined by the admission test for that year for the respective degree program
+what is the duration of regular semester 
+Answer: the minimum duration of a bachelor ’ s degree is four academic years ( 8 regular semesters ) . duration . maximum duration is of seven years
+what is meant by core course 
+Answer: score and c means credit hours
+what is mean by core courses 
+Answer: teaching a theory course
+what are the core subjects 
+Answer: p1 * c1 + p2 * c2 + p3 * c3 + p4 * c4
+what is eligibility criteria for loan 
+Answer: Please contact academic office for this query.
+when will admission start in fast 
+Answer: before the commencement of fall semester
+can a student study summer in other campus 
+Answer: a student can study summer semester in another campus , provided that the parent campus is not offering that course
+what is normal course load 
+Answer: normal semester course load for undergraduate students , who are not on academic warning / probation , is as per the university study plan which includes 5 courses and labs if there any
+what is eligibility criteria for loan 
+Answer: Please contact academic office for this query.
+how can student change degree program 
+Answer: has to qualify the merit so determined by the admission test for that year for the respective degree program
+core 
+Answer: 
+core 
+Answer: Please contact academic office for this query.
+how many credit hour in one semester 
+Answer: one credit hour means teaching a theory course for one classroom - teaching hour each week throughout the semester
+what is a semester 
+Answer: a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+how many cr hour in bachelor degree 
+Answer: 130
+when will admission open 
+Answer: before the commencement of fall semester
+When does academic year starts in FAST NUCES?  
+Answer: fall and spring , in an academic year . the minimum duration of a bachelor ’ s degree is four academic years ( 8 regular semesters ) . minimum be academic year regular . maximum duration is of seven years . new admissions in undergraduate programs are normally conducted once in an academic year , that is , before the commencement of fall semester
+when fall semester start 
+Answer: Please contact academic office for this query.
+is there any spring admissions commenced 
+Answer: Please contact academic office for this query.
+is there any spring admissions commenced 
+Answer: Please contact academic office for this query.
+when fast is goin to open admission 
+Answer: Please contact academic office for this query.
+when fast is going to open admission 
+Answer: before the commencement of fall semester . any student with credits earned at other institution ( s ) , under formally accredited programs , aspiring for admission into a degree program at nuces , has to qualify the merit so determined by the admission test for that year for the respective degree program . a former student of the university seeking readmission in an undergraduate program can do so by taking the relevant admission test . after qualifying for the admission on merit , the student is admitted as a new student
+how many cr hour in bachelor degree 
+Answer: 130 credit hours
+where is fast located 
+Answer: Please contact academic office for this query.
+where is fast located 
+Answer: Please contact academic office for this query.
+academic year of university end in 
+Answer: Please contact academic office for this query.
+when fast is goin to open admission 
+Answer: Please contact academic office for this query.
+when fast is goin to open admission? 
+Answer: Please contact academic office for this query.
+where is fast located 
+Answer: Please contact academic office for this query.
+what is a semester 
+Answer: a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+cheating is allowed 
+Answer: cheating is allowed [SEP]
+can student transfer the campus 
+Answer: request of a student for transfer from one campus of the university to another will be considered only on the following grounds . a student may be allowed to transfer from this university to any other educational institution after obtaining clearance from the university
+when will admission in fast 
+Answer: august / september . academic year of the university end in may / june
+how many cr hour in bachelor degree 
+Answer: 130 credit hours
+how does classes are scheduled? 
+Answer: at scheduled hours
+faculty members 
+Answer: faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+how many faculty members are in fast 
+Answer: [CLS] how many faculty members are in fast [SEP] . . faculty members shall not reschedule any class at their own discretion
+faculty members 
+Answer: faculty members shall not reschedule any class at their own discretion
+what are core subjects 
+Answer: Please contact academic office for this query.
+what is a semester 
+Answer: a regular semester is spread over 15 / 16 weeks of teaching , and 2 weeks of final examinations
+is smoking allowed 
+Answer: Please contact academic office for this query.
+gym 
+Answer: Please contact academic office for this query.
+rector list 
+Answer: rector ’ s list of honors
+deans list 
+Answer: [CLS] deans list [SEP] . students earning an sgpa of 4 . 00 with at least 30 credit hours shall be included in a prestigious list called rector ’ s list of honors
+When does a regular semester start 
+Answer: august / september
+When does academic year starts in FAST NUCES?  
+Answer: Please contact academic office for this query.
+how to study summer in other campus 
+Answer: Please contact academic office for this query.
+how many cr hour in bachelor degree 
+Answer: 130 credit hours
+how many credit hours are there in a degree 
+Answer: 130
+how many credit hour in semester 
+Answer: one credit hour means teaching a theory course for one classroom - teaching hour each week throughout the semester

@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="jumbotron text-center", style="background-color: #eeeeeb;">
+	<h1> Welcome to NUCES</h1>
+	<p class="lead">This application is built to answer your queries</p>
+	<p class="lead">Please enter your question below</p>
+</div>
+<div class="text-center">
+	<form method="POST">
+		<input style="width: 80%;" name="query">
+		<input style="margin-left: 2%; " type="submit">
+	</form>
+</div>
+<div class="text-center">
+	<p class="lead">{{answer}}</p>
+</div>
+{% endblock %}
